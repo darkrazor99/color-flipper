@@ -7,3 +7,4 @@ document.getElementById("btn").addEventListener("click", (e) => {
     document.body.style.backgroundColor = colors[randIndex];
     document.querySelector('.color').textContent = colors[randIndex];
 });
+
